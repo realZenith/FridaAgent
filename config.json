@@ -1,0 +1,22 @@
+{
+    "ExecuteIl2cppModules": true,
+    "ExecuteJavaModules": true,
+    "Connection": {
+        "PackageName": "PackageNameHere",
+        "DirectConnection": true,
+        "ServerAddress": "ServerAddressHere",
+        "ProxyRedirection": false,
+        "ProxyAddress": "192.168.1.250",
+        "ProxyPort": 8080,
+        "FilePaddingSoICanKeepMySanity": "----------------------------------------------------------------------------------------------------------------------------------"
+    },
+    "Misc":{
+        "ExportPath": "/storage/self/primary/Pictures/"
+    },
+    "Dump": {
+        "LibIl2Cpp": false,
+        "GlobalMetadata": false,
+        "Il2CppBridge": false
+    },
+    "Trace": false
+}

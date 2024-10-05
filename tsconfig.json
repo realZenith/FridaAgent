@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "lib": [
+      "ESNext"
+    ],
+    "experimentalDecorators": true,
+    "module": "ESNext",
+    "allowJs": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "strict": true,
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "sourceMap": false
+  },
+  // If file is not referenced will give errors because of this
+  // Head ache? yes, but probably will prevent other pains
+  "files": [
+    "index.ts"
+  ]
+}
